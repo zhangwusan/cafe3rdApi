@@ -13,7 +13,7 @@ public class CoffeeApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Server running on PORT = 9090");
+		System.out.println("Server running..................");
 	}
 
 	
